@@ -1,0 +1,52 @@
+body{
+  padding: 3px;
+}
+h1{
+  text-align: center;
+  font-size: 5vw;
+  font-family: 'Gelasio',serif;
+}
+img{
+  
+  margin-left: auto;
+  margin-right:auto;
+  display:block;
+  max-width: 75%;
+  
+}
+#img-div{
+  background-color: whitesmoke;
+}
+#title{
+  color: rgb(0, 0, 0);
+}
+#img-caption{
+  text-align:center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: 400;
+  font-size: 20px;
+  color: black;
+  text-decoration: black;
+  font-style: italic;
+}
+
+#tribute-info{
+  display:block;
+  text-align:left;
+  background-color: #EEE2DC;
+  box-shadow: grey 8.5px 5px;
+  max-width: 80%;
+  margin: auto;
+}
+
+#main{
+  background-color:whitesmoke;
+}
+.para{
+  display: block;
+  margin-left:auto;
+  margin-right:auto;
+  width:70%;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  word-spacing:3px;
+}

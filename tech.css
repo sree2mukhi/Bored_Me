@@ -1,0 +1,41 @@
+body{
+    background-color: grey;
+}
+
+#navbar{
+    width: 100%;
+    position: fixed;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(201, 201, 201);
+    font-size: medium;
+    font-weight: 100;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#main-doc{
+    padding-top: 140px;
+    padding-left: 100px;
+    background-color: gray;
+}
+section{
+    padding-left: 5%;
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+    text-align: justify;
+    background-color: whitesmoke;
+    font-size: medium;
+    font-weight: 100;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+code{
+    background-color: black;
+    color: white;
+    padding: 6px;
+}
+p{
+    width: 50%;
+    align-self: center;
+}
+
